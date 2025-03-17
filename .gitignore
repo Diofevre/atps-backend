@@ -53,5 +53,6 @@ pnpm-lock.yaml
 .DS_Store
 
 # Other
+services/*.json
 *.local
 *.cache
